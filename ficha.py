@@ -1,3 +1,3 @@
 print('ficha')
-bug
-code working with bug
+#исправленный код
+#code working with code
