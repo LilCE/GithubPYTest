@@ -1,0 +1,2 @@
+print('ficha')
+bug
